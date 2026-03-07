@@ -54,6 +54,10 @@ Esta guía asume que tienes Podman instalado y una imagen de contenedor pre-cons
     > - **Para usar Gemini:** Asegúrate de que la variable `GEMINI_API_KEY` esté configurada en tu archivo `.env`.
     > - **Para usar Llama:** Añade la URL de tu servidor en la variable `LLAMA_API_URL="http://<tu-servidor-llama>:<puerto>"`. Gemini es utilizado para evaluar las respuestas del Usuario durante el Quiz. Llama es utilizado para responder preguntas sobre Bitcoin en el modo "Preguntar" sin recompensas. Ambos son requeridos para este MVP.
 
+
+    > **Nota sobre BTC Pay Server:**
+    > Es necesario configurar BTCPay Server para probar este proyecto, lee BTC_PAY_CONFIG
+
 4.  **Cargar la imagen:**
     Abre tu terminal, navega al directorio que creaste y ejecuta el siguiente comando para cargar la imagen del contenedor en Podman:
 
