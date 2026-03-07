@@ -1,6 +1,13 @@
-# Cómo Ejecutar Satoshi Chatbot
 
-Satoshi Chatbot es una aplicación web interactiva que permite a los usuarios aprender sobre Bitcoin y poner a prueba sus conocimientos a través de un cuestionario. Se integra con BTCPay Server para los pagos y utiliza Gemini para sus capacidades de IA.
+## SatoshiBot
+
+SatoshiBot es una herramienta educativa interactiva que combina inteligencia artificial con incentivos reales en Bitcoin para llevar educación financiera a usuarios mexicanos. 
+
+La aplicación tiene dos modos:
+
+- Quiz con recompensa en sats: El usuario responde 5 preguntas progresivas sobre Bitcoin. Si supera el puntaje mínimo, recibe sats automáticamente en su wallet.
+- Chat libre sobre Bitcoin: Impulsado con Inteligencia Artificial responde cualquier pregunta sobre Bitcoin y su uso en México.
+
 
 ## Stack Tecnológico
 
@@ -9,6 +16,15 @@ Satoshi Chatbot es una aplicación web interactiva que permite a los usuarios ap
 - **IA:** Google Gemini
 - **Pagos:** BTCPay Server
 - **Contenerización:** Podman
+
+Se integra con BTCPay Server para procesar pagos y utiliza Gemini + Llama para sus capacidades de IA.
+
+
+## Presentación
+[![Ver video en YouTube](https://img.youtube.com/vi/Gwo-qit64zE/0.jpg)](https://www.youtube.com/watch?v=Gwo-qit64zE)
+## Demostración
+
+[![Demostración](https://img.youtube.com/vi/MCToE2nmSGA/0.jpg)](https://www.youtube.com/watch?v=MCToE2nmSGA)
 
 ## Ejecutar la aplicación con Podman
 
