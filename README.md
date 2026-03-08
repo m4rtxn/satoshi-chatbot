@@ -22,7 +22,7 @@ Se integra con BTCPay Server para procesar pagos y utiliza Gemini + Llama para s
 
 ## Presentación y Demo 
 
-[![Demostración](https://img.youtube.com/vi/EomTT4Z8ZNs/0.jpg)](https://youtu.be/EomTT4Z8ZNs)
+[![Demostración](https://img.youtube.com/vi/m1vnuB7o3s4/0.jpg)](https://youtu.be/m1vnuB7o3s4)
 
 ## Ejecutar la aplicación con Podman
 
