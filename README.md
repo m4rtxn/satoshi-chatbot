@@ -20,11 +20,9 @@ La aplicación tiene dos modos:
 Se integra con BTCPay Server para procesar pagos y utiliza Gemini + Llama para sus capacidades de IA.
 
 
-## Presentación
-[![Ver video en YouTube](https://img.youtube.com/vi/Gwo-qit64zE/0.jpg)](https://www.youtube.com/watch?v=Gwo-qit64zE)
-## Demostración
+## Presentación y Demo 
 
-[![Demostración](https://img.youtube.com/vi/MCToE2nmSGA/0.jpg)](https://www.youtube.com/watch?v=MCToE2nmSGA)
+[![Demostración](https://img.youtube.com/vi/EomTT4Z8ZNs/0.jpg)](https://youtu.be/EomTT4Z8ZNs)
 
 ## Ejecutar la aplicación con Podman
 
